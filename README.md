@@ -216,15 +216,6 @@ ConvNeXt/
 
 ---
 
-## 🔮 Gelecek Geliştirmeler
-
-- [ ] Model ağırlıklarının `.pth` formatında otomatik kaydedilip (`torch.save`) yüklenmesi.
-- [ ] Karmaşıklık Matrisi (Confusion Matrix) ve ROC-AUC analizlerinin eklenmesi.
-- [ ] Grad-CAM ile modelin odaklandığı bölgelerin görselleştirilmesi.
-- [ ] Streamlit veya Gradio ile etkileşimli bir web arayüzü demosu oluşturulması.
-
----
-
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmaktadır.
