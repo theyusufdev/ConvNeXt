@@ -23,7 +23,6 @@ Bu proje, modern konvolüsyonel sinir ağı mimarisi olan **ConvNeXt-Large** kul
 - [Kurulum ve Gereksinimler](#-kurulum-ve-gereksinimler)
 - [Kullanım Rehberi](#-kullanım-rehberi)
 - [Proje Dizin Yapısı](#-proje-dizin-yapısı)
-- [Gelecek Geliştirmeler](#-gelecek-geliştirmeler)
 - [Lisans](#-lisans)
 
 ---
